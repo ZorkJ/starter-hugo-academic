@@ -14,6 +14,7 @@ sections:
   - block: collection
     content:
       title: Research
+      id: research
       filters:
         folders:
           - research
