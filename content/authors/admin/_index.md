@@ -22,9 +22,7 @@ organizations:
     url: https://www.hkubs.hku.hk/people/lei-huang/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome! I am a Ph.D. Candidate in Finance at the University of Hong Kong. My research interest lies in Fintech, Social Network and Climate Finance. 
-Email: hlei123@connect.hku.hk
-
+bio: Welcome! My research interest lies in Fintech and Climate Finance. 
 
 # Interests to show in About widget
 interests:
@@ -80,5 +78,9 @@ email: 'hlei123@connect.hku.hk'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+
+Welcome! I am a Ph.D. Candidate in Finance at The University of Hong Kong. My research interest lies in Fintech and Climate Finance.
+
+Email: [hlei123@connect.hku.hk](mailto:hlei123@connect.hku.hk)
+
+Here is my [CV](uploads/CV_Lei_Huang.pdf).
