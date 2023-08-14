@@ -82,4 +82,4 @@ Welcome! I am a Ph.D. Candidate in Finance at The University of Hong Kong. My re
 
 Email: [hlei123@connect.hku.hk](mailto:hlei123@connect.hku.hk)
 
-< icon name="download" pack="fas" > Here is my [CV](uploads/CV_Lei_Huang.pdf).
+{{< icon name="download" pack="fas" >}} Here is my [CV](uploads/CV_Lei_Huang.pdf).
