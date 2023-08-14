@@ -27,8 +27,8 @@ sections:
         - name: Python
           description: 100%
           icon: python
-          icon_pack: fas
-        - name: R
+          icon_pack: fab
+	- name: R
           description: 100%
           icon: r-project
           icon_pack: fab
