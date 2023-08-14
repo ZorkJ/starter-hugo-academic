@@ -78,9 +78,8 @@ email: 'hlei123@connect.hku.hk'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 Welcome! I am a Ph.D. Candidate in Finance at The University of Hong Kong. My research interest lies in Fintech and Climate Finance.
 
 Email: [hlei123@connect.hku.hk](mailto:hlei123@connect.hku.hk)
 
-Here is my [CV](uploads/CV_Lei_Huang.pdf).
+< icon name="download" pack="fas" > Here is my [CV](uploads/CV_Lei_Huang.pdf).
