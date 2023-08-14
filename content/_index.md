@@ -15,7 +15,6 @@ sections:
     id: research
     content:
       title: Research
-      id: 
       filters:
         folders:
           - research
