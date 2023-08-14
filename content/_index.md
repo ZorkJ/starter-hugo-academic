@@ -11,16 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    id: research
-    content:
-      title: Research
-      filters:
-        folders:
-          - research
-      design:
-        columns: '2'
-        view: citation
   - block: features
     content:
       title: Skills
