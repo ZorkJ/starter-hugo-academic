@@ -16,7 +16,7 @@ sections:
       title: Research
       filters:
         folders:
-          - publication
+          - research
       design:
         columns: '2'
         view: citation
