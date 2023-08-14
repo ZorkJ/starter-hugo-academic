@@ -24,7 +24,7 @@ marketing:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: ''  
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -36,7 +36,7 @@ header:
     enable: true
     align: l
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Lei Huang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
