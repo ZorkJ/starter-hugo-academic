@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Lei Huang 黄磊 # Website name
-baseURL: 'https://adorable-marigold-cdc6e4.netlify.app/' # Website URL
+baseURL: 'https://leihuang.xyz/' # Website URL
 
 ############################
 ## LANGUAGE
