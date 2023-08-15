@@ -1,13 +1,22 @@
 ---
 title: The Financialization of Cryptocurrencies
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+
 publication_types:
   - "3"
+
 authors:
   - admin
   - Tse-Chun Lin
   - Fangzhou Lu
   - Jian Sun
+
 publication_short: ""
+
 abstract: We show that change in Grayscale Bitcoin Trust premium is the single
   most significant predictor of Bitcoin daily return. This sentiment measure is
   similar to the closed-end fund discount measure as in Baker and Wurgler
@@ -23,27 +32,32 @@ abstract: We show that change in Grayscale Bitcoin Trust premium is the single
   daily alpha of 40 bps. These findings suggest that Bitcoin prices react with a
   delay to the information contained in the sentiment of traditional investors
   and investors who are constrained from directly holding Bitcoin.
+
+doi: https://dx.doi.org/10.2139/ssrn.3948407
+url_pdf: ""
+publication:  Available at SSRN: https://ssrn.com/abstract=3948407
+
+
 draft: false
-featured: true
+featured: false
 tags: []
 slides: ""
-url_pdf: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_project: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
-author_notes: []
-doi: https://dx.doi.org/10.2139/ssrn.3948407
-publication: ""
-projects: []
-date: 2023-08-15T03:20:36.380Z
+
+
+url_project: 
+url_source: 
+url_video:
+author_notes:
+
+projects: 
+date: 
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: ""
 ---
