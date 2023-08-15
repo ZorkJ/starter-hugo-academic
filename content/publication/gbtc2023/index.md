@@ -33,8 +33,15 @@ abstract: We show that change in Grayscale Bitcoin Trust premium is the single
   delay to the information contained in the sentiment of traditional investors
   and investors who are constrained from directly holding Bitcoin.
 
-doi: https://dx.doi.org/10.2139/ssrn.3948407
-url_pdf: https://ssrn.com/abstract=3948407
 publication:  "Available at SSRN: https://ssrn.com/abstract=3948407"
+
 date: "2023-02-24T00:00:00Z"
+
+doi: https://dx.doi.org/10.2139/ssrn.3948407
+
+links:
+  - name: "SSRN"
+    url: "https://ssrn.com/abstract=3948407"
+  - name: "PDF"
+    url: "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4369698_code2323958.pdf?abstractid=3948407&mirid=1&type=2"
 ---
