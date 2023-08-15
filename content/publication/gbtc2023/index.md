@@ -43,5 +43,5 @@ links:
   - name: "SSRN"
     url: "https://ssrn.com/abstract=3948407"
   - name: "PDF"
-    url: "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4369698_code2323958.pdf?abstractid=3948407&mirid=1&type=2"
+    url: "https://ssrn.com/abstract=3948407"
 ---
