@@ -35,7 +35,7 @@ abstract: We show that change in Grayscale Bitcoin Trust premium is the single
 
 doi: https://dx.doi.org/10.2139/ssrn.3948407
 url_pdf: ""
-publication:  Available at SSRN: https://ssrn.com/abstract=3948407
+publication:  "Available at SSRN: https://ssrn.com/abstract=3948407"
 
 
 draft: false
