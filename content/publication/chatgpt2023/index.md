@@ -34,7 +34,9 @@ abstract: We show that change in Grayscale Bitcoin Trust premium is the single
   and investors who are constrained from directly holding Bitcoin.
 
 doi: https://dx.doi.org/10.2139/ssrn.3948407
-url_pdf: https://ssrn.com/abstract=3948407
+url_pdf: ""
 publication:  "Available at SSRN: https://ssrn.com/abstract=3948407"
 date: "2023-02-24T00:00:00Z"
+url_ssrn: https://ssrn.com/abstract=3948407
+
 ---
