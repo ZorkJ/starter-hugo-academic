@@ -1,5 +1,5 @@
 ---
-title: Sanctions and Social Capital: Evidence from the Russian Invasion of Ukraine
+title: "Sanctions and Social Capital: Evidence from the Russian Invasion of Ukraine"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
