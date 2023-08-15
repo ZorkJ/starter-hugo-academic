@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lei Huang 黄磊
+title: Lei Huang
 
 # Full name (for SEO)
 first_name: Lei
