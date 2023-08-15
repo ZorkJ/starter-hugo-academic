@@ -34,7 +34,7 @@ education:
   courses:
     - course: Ph.D. Candidate in Finance
       institution: The University of Hong Kong
-      year: From 2020
+      year: 2020-Prensent
     - course: MEcon in Financial Engineering
       institution: Renmin University of China
       year: 2020
