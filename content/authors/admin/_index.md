@@ -27,7 +27,8 @@ organizations:
 # Interests to show in About widget
 interests:
   - Fintech
-  - Climate Finance
+  - Asset Pricing
+  - Big Data
 
 # Education to show in About widget
 education:
@@ -70,7 +71,7 @@ education:
 social:
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Lei_Huang.pdf
+    link: uploads/Lei Huang_CV 20240705.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'hlei123@connect.hku.hk'
@@ -82,4 +83,4 @@ Welcome! I am a Ph.D. Candidate in Finance at The University of Hong Kong. My re
 
 Email: [hlei123@connect.hku.hk](mailto:hlei123@connect.hku.hk)
 
-{{< icon name="download" pack="fas" >}} Here is my [CV](uploads/CV_Lei_Huang.pdf).
+{{< icon name="download" pack="fas" >}} Here is my [CV](uploads/Lei Huang_CV 20240705.pdf).
