@@ -22,7 +22,7 @@ organizations:
     url: https://www.hkubs.hku.hk/people/lei-huang/
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Welcome! My research interest lies in Fintech and Climate Finance. 
+# bio: Welcome! My research interest lies in Fintech, Asset Pricing and Big Data. 
 
 # Interests to show in About widget
 interests:
