@@ -71,7 +71,7 @@ education:
 social:
   - icon: cv
     icon_pack: ai
-    link: uploads/Lei Huang_CV 20240705.pdf
+    link: uploads/CV_Lei_Huang.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'hlei123@connect.hku.hk'
@@ -83,4 +83,4 @@ Welcome! I am a Ph.D. Candidate in Finance at The University of Hong Kong. My re
 
 Email: [hlei123@connect.hku.hk](mailto:hlei123@connect.hku.hk)
 
-{{< icon name="download" pack="fas" >}} Here is my [CV](uploads/Lei Huang_CV 20240705.pdf).
+{{< icon name="download" pack="fas" >}} Here is my [CV](uploads/CV_Lei_Huang.pdf).
